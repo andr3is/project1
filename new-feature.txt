@@ -2,6 +2,6 @@ New feature
 
 some code
 
-Added - new line ... to this new feature
+Added - new line .. to this new feature
 
 End of the new feature
